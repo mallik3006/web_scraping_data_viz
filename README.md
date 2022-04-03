@@ -3,7 +3,7 @@
 
 ### Introduction
 
-The goal of this project is to scrape Chicago area restuarants data from TripAdvisor website and draw insights using data analysis and visualization.
+The goal of this project is to scrape Chicago area restaurants data from TripAdvisor website and draw insights using data analysis and visualization.
 
 
 ### Libraries
