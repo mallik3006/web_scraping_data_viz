@@ -11,7 +11,7 @@ The goal of this project is to scrape Chicago area restaurants data from TripAdv
 * `BeautifulSoup`
 * `urllib`
 * `requests`
-* `numoy`
+* `numpy`
 * `pandas`
 * `matplotlib`
 * `seaborn`
